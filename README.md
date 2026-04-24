@@ -1,3 +1,9 @@
+Profile View Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yusufmd24&color=2563AB&style=flat-square&label=Profile+Views"/>
+</p>
+---
+
 <h1 align="center">Hi, I'm Md Yusuf 👋</h1>
 
 <p align="center">
@@ -22,7 +28,21 @@ I don't just build dashboards — I ask *why* the numbers look the way they do. 
 - 🔍 Currently working on: **Lowe's-style Retail Merchandise Analysis** (Power BI + SQL)
 - 📊 Certified: IBM Data Analysis · Cisco Data Analytics · SAS SQL Essentials · Aptech Smart Data Analytics (Distinction, 86%)
 - 📍 Based in Kolkata · Open to Data Analyst / Business Analyst roles
-
+---
+Skill Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+---
+Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yusufmd24&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 🚀 Featured Projects
