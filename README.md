@@ -1,4 +1,3 @@
-Profile View Counter
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yusufmd24&color=2563AB&style=flat-square&label=Profile+Views"/>
 </p>
