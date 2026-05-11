@@ -91,6 +91,9 @@ EDA on hotel pricing and demand data. Identified **60%+ mid-range segment domina
   <img src="https://github-readme-stats.vercel.app/api?username=Yusufmd24&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufmd24&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
+</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusufmd24&show_icons=true&theme=transparent)
+</p>
 
 ---
 
