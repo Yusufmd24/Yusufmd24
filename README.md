@@ -46,6 +46,13 @@ Streak Stats
 
 ## 🚀 Featured Projects
 
+### 🛒 [Retail-Merchandising-Analytics](https://github.com/Yusufmd24/Retail-Merchandising-Analytics)
+> **Stack:** Python · SQL · Excel · Power BI
+
+Retail merchandising analytics project featuring KPI tracking, category performance analysis, sales trend visualization, and business insights using Power BI, SQL, Excel and Python.
+
+---
+
 ### 🛒 [E-Commerce Data Pipeline & Performance Analysis](https://github.com/Yusufmd24/E-Commerce_Data_Pipeline_Intelligence_Dashboard_End-to-End-Analytics_Project)
 > **Stack:** Python · SQL · Excel · Power BI
 
