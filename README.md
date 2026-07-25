@@ -46,6 +46,13 @@ Streak Stats
 
 ## 🚀 Featured Projects
 
+### 🛒 [SaaS Metrics Intelligence Dashboard](https://github.com/Yusufmd24/SaaS-Metrics-Intelligence-Dashboard)
+> **Stack:** Python · SQL · Excel · Power BI
+
+An end-to-end SaaS analytics solution built using Python, SQL Server, Excel, and Power BI to transform raw subscription data into actionable business insights through data engineering, analytics, and interactive dashboards.
+
+---
+
 ### 🛒 [Retail-Merchandising-Analytics](https://github.com/Yusufmd24/Retail-Merchandising-Analytics)
 > **Stack:** Python · SQL · Excel · Power BI
 
