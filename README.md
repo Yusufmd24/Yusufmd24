@@ -46,45 +46,45 @@ Streak Stats
 
 ## 🚀 Featured Projects
 
-### 🛒 [SaaS Metrics Intelligence Dashboard](https://github.com/Yusufmd24/SaaS-Metrics-Intelligence-Dashboard)
+### 🛒 [RevenuePulse:-SaaS-Revenue-Intelligence](https://github.com/Yusufmd24/SaaS-Metrics-Intelligence-Dashboard)
 > **Stack:** Python · SQL · Excel · Power BI
 
-An end-to-end SaaS analytics solution built using Python, SQL Server, Excel, and Power BI to transform raw subscription data into actionable business insights through data engineering, analytics, and interactive dashboards.
+End-to-end SaaS analytics solution covering MRR, ARR, churn, expansion, contraction, cohort analysis, CAC, LTV and executive KPI reporting. Built with SQL, Python, Power BI and advanced DAX.
 
 ---
 
-### 🛒 [Retail-Merchandising-Analytics](https://github.com/Yusufmd24/Retail-Merchandising-Analytics)
+### 🛒 [MerchIQ:-Retail-Merchandising-Performance](https://github.com/Yusufmd24/Retail-Merchandising-Analytics)
 > **Stack:** Python · SQL · Excel · Power BI
 
-Retail merchandising analytics project featuring KPI tracking, category performance analysis, sales trend visualization, and business insights using Power BI, SQL, Excel and Python.
+End-to-end retail merchandising analytics system with star schema modelling, vendor analysis, promotional lift evaluation and merchant dashboards built for decision support.
 
 ---
 
-### 🛒 [E-Commerce Data Pipeline & Performance Analysis](https://github.com/Yusufmd24/E-Commerce_Data_Pipeline_Intelligence_Dashboard_End-to-End-Analytics_Project)
+### 🛒 [CommerceCore-E-Commerce-Data-Intelligence-Pipeline](https://github.com/Yusufmd24/E-Commerce_Data_Pipeline_Intelligence_Dashboard_End-to-End-Analytics_Project)
 > **Stack:** Python · SQL · Excel · Power BI
 
 Built an end-to-end ETL pipeline consolidating multi-source e-commerce data. Uncovered **65–70% revenue concentration risk** in top categories and built KPI dashboards (Revenue, AOV, Orders) that reduced time-to-insight by ~30%.
 
 ---
 
-### 💳 [Credit Card Fraud Risk Intelligence System](https://github.com/Yusufmd24/Credit-Card-Fraud-Risk-Intelligence-and-Prevention-System)
+### 💳 [RiskSentry-Financial-Risk-Monitoring-Fraud-Intelligence-Dashboard](https://github.com/Yusufmd24/Credit-Card-Fraud-Risk-Intelligence-and-Prevention-System)
 > **Stack:** Python · Power BI
 
-Designed a fraud detection workflow identifying peak fraud windows (12–4 AM). Automated risk segmentation reduced **manual review effort by ~30%**. Multi-page Power BI report with drill-through from executive summary to transaction level.
+A BFSI-focused monitoring system flagging anomalous transaction patterns for risk and compliance teams — built to reduce fraud losses and false-positive investigation time. Designed a fraud detection workflow identifying peak fraud windows (12–4 AM). Automated risk segmentation reduced **manual review effort by ~30%**.
 
 ---
 
-### 👥 [Customer Segmentation — RFM Analysis](https://github.com/Yusufmd24/Customer-Segmentation-Project-with-SQL)
+### 👥 [ValueTier-RFM-based-customer-segmentation-for-targeted-marketing](https://github.com/Yusufmd24/Customer-Segmentation-Project-with-SQL)
 > **Stack:** SQL (CTEs, Window Functions)
 
-Applied RFM modelling to segment customers into 5 tiers. Surfaced the top ~20% of users driving **~80% of revenue**, enabling targeted retention strategy.
+SQL-driven customer segmentation framework that identifies high-value customer groups for targeted marketing and improved retention. Applied RFM modelling to segment customers into 5 tiers. Surfaced the top ~20% of users driving **~80% of revenue**, enabling targeted retention strategy.
 
 ---
 
-### 🏨 [Indian Hotels Market Analysis](https://github.com/Yusufmd24/Indian_Hotels_Analysis_with_Python)
+### 🏨 [OccuRate-Revenue-Intelligence-for-India-s-Hospitality-Industry](https://github.com/Yusufmd24/Indian_Hotels_Analysis_with_Python)
 > **Stack:** Python (Pandas, Matplotlib, Seaborn)
 
-EDA on hotel pricing and demand data. Identified **60%+ mid-range segment dominance** and strong demand below ₹2,000/night. Segmented listings into 4 pricing tiers, improving pricing strategy clarity by ~25%.
+Optimizing Occupancy Rates & Pricing Strategy Through Market-Level Exploratory Analysis: Operational insights on demand patterns and pricing sensitivity to inform revenue management decisions in the hospitality sector. Identified **60%+ mid-range segment dominance** and strong demand below ₹2,000/night. Segmented listings into 4 pricing tiers, improving pricing strategy clarity by ~25%.
 
 ---
 
