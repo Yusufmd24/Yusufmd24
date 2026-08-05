@@ -88,6 +88,13 @@ Optimizing Occupancy Rates & Pricing Strategy Through Market-Level Exploratory A
 
 ---
 
+### 🏨 [LedgerView-Automated-Sales-MIS-Inventory-Performance-Dashboard](https://github.com/Yusufmd24/LedgerView-Automated-Sales-MIS-Inventory-Performance-Dashboard)
+> **Stack:** MS-Excel · Dashboard
+
+Automated sales and inventory reporting across 100K+ transactions, replacing manual MIS work and giving faster visibility into market and product performance. Excel-based management reporting solution covering sales, inventory and operational KPIs across 4 markets and 4 product categories.
+
+
+---
 ## 🛠️ Skills & Tools
 
 | Category | Tools |
