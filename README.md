@@ -68,7 +68,7 @@ Built an end-to-end ETL pipeline consolidating multi-source e-commerce data. Unc
 ---
 
 ### 💳 [RiskSentry-Financial-Risk-Monitoring-Fraud-Intelligence-Dashboard](https://github.com/mdyusufanalytics/Credit-Card-Fraud-Risk-Intelligence-and-Prevention-System)
-> **Stack:** Python · Power BI
+> **Stack:** Python · Power BI · Excel
 
 A BFSI-focused monitoring system flagging anomalous transaction patterns for risk and compliance teams — built to reduce fraud losses and false-positive investigation time. Designed a fraud detection workflow identifying peak fraud windows (12–4 AM). Automated risk segmentation reduced **manual review effort by ~30%**.
 
