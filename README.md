@@ -113,6 +113,10 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=HTML,CSS,Jupyter%20Notebook" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 ---
 
