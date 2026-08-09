@@ -108,85 +108,32 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
 
 ## 📈 GitHub Analytics
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-<table align="center" width="100%">
-<tr>
-
-<!-- ==================== GITHUB STATISTICS ==================== -->
-
-<td width="50%" align="center" valign="top">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=mdyusufanalytics&show_icons=true&theme=tokyonight&hide_border=true"
-  width="100%"
-  height="180"
-/>
-
-</td>
-
-
-<!-- ==================== MOST USED LANGUAGES ==================== -->
-
-<td width="50%" align="center" valign="top">
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Jupyter%20Notebook,HTML,CSS"
-  width="100%"
-  height="180"
-/>
-
-</td>
-
-</tr>
-</table>
-
-
-<br>
-
-
-<!-- ==================== ANALYTICS STACK ==================== -->
-
-<h3 align="center">📊 Analytics Stack</h3>
-
-<table align="center" width="100%">
-<tr>
-
-<td align="center" width="50%" valign="middle">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATISTICS-F2C811?style=for-the-badge&logo=googleanalytics&logoColor=black"/>
-
-<br>
-
-<strong>8</strong> Repositories
-
-</td>
-
-<td align="center" width="50%" valign="middle">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATISTICS-217346?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-<br>
-
-<strong>6</strong> Repositories
-
-</td>
-
-</tr>
-</table>
-
 <p align="center">
-  <sub>↻ Data is refreshed daily &nbsp;•&nbsp; All stats are generated via GitHub APIs</sub>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=mdyusufanalytics&show_icons=true&theme=tokyonight&hide_border=true"
+    width="49%"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Jupyter%20Notebook,HTML,CSS"
+    width="49%"
+  />
 </p>
 
+<br>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/mdyusufanalytics/mdyusufanalytics/main/assets/analytics-stack.svg"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    ↻ Data is refreshed daily &nbsp;•&nbsp;
+    All stats are generated via GitHub APIs
+  </sub>
+</p>
 ---
 
 ## 📬 Let's Connect
