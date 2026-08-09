@@ -115,7 +115,7 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Jupyter%20Notebook,HTML,CSS"
-    width="48%"
+    width="49%"
   />
 </p>
 
