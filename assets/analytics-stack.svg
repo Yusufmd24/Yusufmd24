@@ -1,0 +1,153 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1000" height="280" fill="#0D1117"/>
+
+  <!-- POWER BI CARD -->
+  <rect x="20" y="20" width="460" height="240"
+        rx="18"
+        fill="#0D1117"
+        stroke="#F2C811"
+        stroke-width="2"/>
+
+  <!-- Power BI icon -->
+  <circle cx="82" cy="140" r="52"
+          fill="#111820"
+          stroke="#F2C811"
+          stroke-opacity="0.35"
+          stroke-width="2"/>
+
+  <rect x="60" y="130" width="10" height="25"
+        rx="3" fill="#F2C811"/>
+  <rect x="75" y="120" width="10" height="35"
+        rx="3" fill="#F2C811"/>
+  <rect x="90" y="108" width="10" height="47"
+        rx="3" fill="#F2C811"/>
+
+  <!-- Power BI title -->
+  <text x="155" y="105"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="30"
+        font-weight="700"
+        fill="#F2C811">
+    Power BI
+  </text>
+
+  <!-- Statistics badge -->
+  <rect x="155" y="130" width="170" height="42"
+        rx="8"
+        fill="none"
+        stroke="#F2C811"
+        stroke-width="2"/>
+
+  <text x="240" y="158"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="700"
+        letter-spacing="2"
+        fill="#F2C811">
+    STATISTICS
+  </text>
+
+  <!-- Divider -->
+  <line x1="350" y1="65" x2="350" y2="215"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <!-- Power BI repository count -->
+  <text x="415" y="125"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="700"
+        fill="#F2C811">
+    8
+  </text>
+
+  <text x="415" y="158"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        fill="#E6EDF3">
+    Repositories
+  </text>
+
+
+  <!-- EXCEL CARD -->
+  <rect x="520" y="20" width="460" height="240"
+        rx="18"
+        fill="#0D1117"
+        stroke="#21A366"
+        stroke-width="2"/>
+
+  <!-- Excel icon -->
+  <circle cx="582" cy="140" r="52"
+          fill="#111820"
+          stroke="#21A366"
+          stroke-opacity="0.35"
+          stroke-width="2"/>
+
+  <rect x="558" y="112" width="43" height="55"
+        rx="4"
+        fill="#21A366"/>
+
+  <text x="579" y="150"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="27"
+        font-weight="700"
+        fill="white">
+    X
+  </text>
+
+  <!-- Excel title -->
+  <text x="655" y="105"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="30"
+        font-weight="700"
+        fill="#21A366">
+    Excel
+  </text>
+
+  <!-- Statistics badge -->
+  <rect x="655" y="130" width="170" height="42"
+        rx="8"
+        fill="none"
+        stroke="#21A366"
+        stroke-width="2"/>
+
+  <text x="740" y="158"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="700"
+        letter-spacing="2"
+        fill="#21A366">
+    STATISTICS
+  </text>
+
+  <!-- Divider -->
+  <line x1="850" y1="65" x2="850" y2="215"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <!-- Excel repository count -->
+  <text x="915" y="125"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="700"
+        fill="#21A366">
+    6
+  </text>
+
+  <text x="915" y="158"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        fill="#E6EDF3">
+    Repositories
+  </text>
+
+</svg>
