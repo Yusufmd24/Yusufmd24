@@ -108,49 +108,129 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=mdyusufanalytics&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    height="180"
-  />
-</p>
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
-<h3 align="center">📊 Analytics Stack</h3>
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center" width="50%">
 
-### 🟨 Power BI
+<!-- ==================== GITHUB STATISTICS ==================== -->
 
-<img src="https://img.shields.io/badge/Statistics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<td width="50%" align="center" valign="top">
 
-**8**
+<img
+  src="https://github-stats-extended.vercel.app/api?username=mdyusufanalytics&show_icons=true&theme=tokyonight&hide_border=true"
+  width="100%"
+  height="180"
+/>
 
-Repositories
+</td>
+
+
+<!-- ==================== MOST USED LANGUAGES ==================== -->
+
+<td width="50%" align="center" valign="top">
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Jupyter%20Notebook,HTML,CSS"
+  width="100%"
+  height="180"
+/>
 
 </td>
 
-<td align="center" width="50%">
-
-### 🟩 Excel
-
-<img src="https://img.shields.io/badge/Statistics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-**6**
-
-Repositories
-
-</td>
 </tr>
 </table>
 
+
+<br>
+
+
+<!-- ==================== ANALYTICS STACK ==================== -->
+
+<h3 align="center">📊 Analytics Stack</h3>
+
+<br>
+
+
+<table align="center" width="90%">
+<tr>
+
+<!-- ==================== POWER BI ==================== -->
+
+<td width="50%" align="center" valign="top">
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+  height="38"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/STATISTICS-F2C811?style=for-the-badge&logo=googleanalytics&logoColor=black"
+  height="32"
+/>
+
+<br><br>
+
+<strong>8</strong>
+
+<br>
+
+<sub>Repositories</sub>
+
+<br><br><br>
+
+</td>
+
+
+<!-- ==================== EXCEL ==================== -->
+
+<td width="50%" align="center" valign="top">
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
+  height="38"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/STATISTICS-217346?style=for-the-badge&logo=googleanalytics&logoColor=white"
+  height="32"
+/>
+
+<br><br>
+
+<strong>6</strong>
+
+<br>
+
+<sub>Repositories</sub>
+
+<br><br><br>
+
+</td>
+
+</tr>
+</table>
+
+
+<br>
+
+
+<!-- ==================== FOOTER ==================== -->
+
 <p align="center">
-  <sub>↻ Data is refreshed daily &nbsp;•&nbsp; All stats are generated via GitHub APIs</sub>
+  <sub>
+    ↻ Data is refreshed daily
+    &nbsp;•&nbsp;
+    All stats are generated via GitHub APIs
+  </sub>
 </p>
 
 ---
