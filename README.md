@@ -124,7 +124,7 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/mdyusufanalytics/mdyusufanalytics/main/assets/analytics-stack.svg"
-    width="100%"
+    width="70%"
   />
 </p>
 
