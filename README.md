@@ -109,13 +109,48 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mdyusufanalytics&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=HTML,CSS,Jupyter%20Notebook" height="150"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=mdyusufanalytics&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    height="180"
+  />
 </p>
 
+<h3 align="center">📊 Analytics Stack</h3>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🟨 Power BI
+
+<img src="https://img.shields.io/badge/Statistics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+**8**
+
+Repositories
+
+</td>
+
+<td align="center" width="50%">
+
+### 🟩 Excel
+
+<img src="https://img.shields.io/badge/Statistics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+**6**
+
+Repositories
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <sub>↻ Data is refreshed daily &nbsp;•&nbsp; All stats are generated via GitHub APIs</sub>
 </p>
 
 ---
