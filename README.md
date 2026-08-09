@@ -149,88 +149,42 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
 
 <h3 align="center">📊 Analytics Stack</h3>
 
-<br>
-
-
-<table align="center" width="90%">
+<table align="center" width="100%">
 <tr>
 
-<!-- ==================== POWER BI ==================== -->
+<td align="center" width="50%" valign="middle">
 
-<td width="50%" align="center" valign="top">
-
-<br>
-
-<img
-  src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-  height="38"
-/>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/STATISTICS-F2C811?style=for-the-badge&logo=googleanalytics&logoColor=black"
-  height="32"
-/>
-
-<br><br>
-
-<strong>8</strong>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <br>
 
-<sub>Repositories</sub>
+<img src="https://img.shields.io/badge/STATISTICS-F2C811?style=for-the-badge&logo=googleanalytics&logoColor=black"/>
 
-<br><br><br>
+<br>
+
+<strong>8</strong> Repositories
 
 </td>
 
+<td align="center" width="50%" valign="middle">
 
-<!-- ==================== EXCEL ==================== -->
-
-<td width="50%" align="center" valign="top">
-
-<br>
-
-<img
-  src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
-  height="38"
-/>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/STATISTICS-217346?style=for-the-badge&logo=googleanalytics&logoColor=white"
-  height="32"
-/>
-
-<br><br>
-
-<strong>6</strong>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 <br>
 
-<sub>Repositories</sub>
+<img src="https://img.shields.io/badge/STATISTICS-217346?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 
-<br><br><br>
+<br>
+
+<strong>6</strong> Repositories
 
 </td>
 
 </tr>
 </table>
 
-
-<br>
-
-
-<!-- ==================== FOOTER ==================== -->
-
 <p align="center">
-  <sub>
-    ↻ Data is refreshed daily
-    &nbsp;•&nbsp;
-    All stats are generated via GitHub APIs
-  </sub>
+  <sub>↻ Data is refreshed daily &nbsp;•&nbsp; All stats are generated via GitHub APIs</sub>
 </p>
 
 ---
