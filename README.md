@@ -120,4 +120,4 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
 
 If you're hiring for Data Analyst or Business Analyst roles in Kolkata — or remotely — I'd love to talk.
 
-📧 mdyusuf911@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/md-yusuf-2409)
+📧 mdyusufanalytics@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/mdyusuf-analytics)
