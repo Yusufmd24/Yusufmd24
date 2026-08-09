@@ -119,7 +119,7 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
   />
 </p>
 
-<br>
+<h3 align="center">📊 Analytics Stack</h3>
 
 <p align="center">
   <img
@@ -130,10 +130,12 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
 
 <p align="center">
   <sub>
-    ↻ Data is refreshed daily &nbsp;•&nbsp;
+    ↻ Data is refreshed daily
+    &nbsp;•&nbsp;
     All stats are generated via GitHub APIs
   </sub>
 </p>
+
 ---
 
 ## 📬 Let's Connect
