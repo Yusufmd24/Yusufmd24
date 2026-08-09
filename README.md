@@ -106,11 +106,11 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=mdyusufanalytics&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=HTML,CSS,Jupyter%20Notebook" height="150"/>
 </p>
 
 
