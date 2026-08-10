@@ -109,12 +109,19 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
 ## 📈 GitHub Analytics
 
 <p align="center">
+
   <img
     src="https://github-readme-stats-weld-six-44.vercel.app/api?username=mdyusufanalytics&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"
+    width="70%"
   />
+
+  <br><br>
+
   <img
-    src="https://github-readme-stats-weld-six-44.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=normal&theme=tokyonight&hide_border=true&langs_count=2&hide=Jupyter%20Notebook,HTML,CSS&card_width=460"
+    src="https://github-readme-stats-weld-six-44.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=normal&theme=tokyonight&hide_border=true&langs_count=2&hide=Jupyter%20Notebook,HTML,CSS&card_width=700"
+    width="70%"
   />
+
 </p>
 
 <h3 align="center">📊 Analytics Stack</h3>
