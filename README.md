@@ -111,11 +111,9 @@ Automated sales and inventory reporting across 100K+ transactions, replacing man
 <p align="center">
   <img
     src="https://github-readme-stats-weld-six-44.vercel.app/api?username=mdyusufanalytics&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"
-    height="200"
   />
   <img
-    src="https://github-readme-stats-weld-six-44.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Jupyter%20Notebook,HTML,CSS"
-    height="200"
+    src="https://github-readme-stats-weld-six-44.vercel.app/api/top-langs/?username=mdyusufanalytics&layout=normal&theme=tokyonight&hide_border=true&langs_count=2&hide=Jupyter%20Notebook,HTML,CSS&card_width=460"
   />
 </p>
 
