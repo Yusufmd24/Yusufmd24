@@ -81,7 +81,7 @@ SQL-driven customer segmentation framework that identifies high-value customer g
 
 ---
 
-### 🏨 [OccuRate-Revenue-Intelligence-for-India-s-Hospitality-Industry](https://github.com/mdyusufanalytics/Indian_Hotels_Analysis_with_Python)
+### 🏨 [OccuRate-Revenue-Intelligence-for-India-s-Hospitality-Industry](https://github.com/mdyusufanalytics/OccuRate-Revenue-Intelligence-for-India-s-Hospitality-Industry)
 > **Stack:** Python (Pandas, Matplotlib, Seaborn)
 
 Optimizing Occupancy Rates & Pricing Strategy Through Market-Level Exploratory Analysis: Operational insights on demand patterns and pricing sensitivity to inform revenue management decisions in the hospitality sector. Identified **60%+ mid-range segment dominance** and strong demand below ₹2,000/night. Segmented listings into 4 pricing tiers, improving pricing strategy clarity by ~25%.
