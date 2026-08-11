@@ -46,35 +46,35 @@ Streak Stats
 
 ## 🚀 Featured Projects
 
-### 🛒 [RevenuePulse:-SaaS-Revenue-Intelligence](https://github.com/mdyusufanalytics/SaaS-Metrics-Intelligence-Dashboard)
+### 🛒 [RevenuePulse:-SaaS-Revenue-Intelligence](https://github.com/mdyusufanalytics/RevenuePulse-SaaS-Revenue-Intelligence)
 > **Stack:** Python · SQL · Excel · Power BI
 
 End-to-end SaaS analytics solution covering MRR, ARR, churn, expansion, contraction, cohort analysis, CAC, LTV and executive KPI reporting. Built with SQL, Python, Power BI and advanced DAX.
 
 ---
 
-### 🛒 [MerchIQ:-Retail-Merchandising-Performance](https://github.com/mdyusufanalytics/Retail-Merchandising-Analytics)
+### 🛒 [MerchIQ:-Retail-Merchandising-Performance](https://github.com/mdyusufanalytics/MerchIQ-Retail-Merchandising-Performance)
 > **Stack:** Python · SQL · Excel · Power BI
 
 End-to-end retail merchandising analytics system with star schema modelling, vendor analysis, promotional lift evaluation and merchant dashboards built for decision support.
 
 ---
 
-### 🛒 [CommerceCore-E-Commerce-Data-Intelligence-Pipeline](https://github.com/mdyusufanalytics/E-Commerce_Data_Pipeline_Intelligence_Dashboard_End-to-End-Analytics_Project)
+### 🛒 [CommerceCore-E-Commerce-Data-Intelligence-Pipeline](https://github.com/mdyusufanalytics/CommerceCore-E-Commerce-Data-Intelligence-Pipeline)
 > **Stack:** Python · SQL · Excel · Power BI
 
 Built an end-to-end ETL pipeline consolidating multi-source e-commerce data. Uncovered **65–70% revenue concentration risk** in top categories and built KPI dashboards (Revenue, AOV, Orders) that reduced time-to-insight by ~30%.
 
 ---
 
-### 💳 [RiskSentry-Financial-Risk-Monitoring-Fraud-Intelligence-Dashboard](https://github.com/mdyusufanalytics/Credit-Card-Fraud-Risk-Intelligence-and-Prevention-System)
+### 💳 [RiskSentry-Financial-Risk-Monitoring-Fraud-Intelligence-Dashboard](https://github.com/mdyusufanalytics/RiskSentry-Financial-Risk-Monitoring-Fraud-Intelligence-Dashboard)
 > **Stack:** Python · Power BI · Excel
 
 A BFSI-focused monitoring system flagging anomalous transaction patterns for risk and compliance teams — built to reduce fraud losses and false-positive investigation time. Designed a fraud detection workflow identifying peak fraud windows (12–4 AM). Automated risk segmentation reduced **manual review effort by ~30%**.
 
 ---
 
-### 👥 [ValueTier-RFM-based-customer-segmentation-for-targeted-marketing](https://github.com/mdyusufanalytics/Customer-Segmentation-Project-with-SQL)
+### 👥 [ValueTier-RFM-based-customer-segmentation-for-targeted-marketing](https://github.com/mdyusufanalytics/ValueTier-RFM-based-customer-segmentation-for-targeted-marketing)
 > **Stack:** SQL (CTEs, Window Functions)
 
 SQL-driven customer segmentation framework that identifies high-value customer groups for targeted marketing and improved retention. Applied RFM modelling to segment customers into 5 tiers. Surfaced the top ~20% of users driving **~80% of revenue**, enabling targeted retention strategy.
